@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class App {
     
     public static void main(String[] args) {
+        //commentaire
          Scanner clavier = new Scanner(System.in);  
          System.out.println("Saisir un prmier nom commun:"); 
          String Nom= clavier.nextLine();
